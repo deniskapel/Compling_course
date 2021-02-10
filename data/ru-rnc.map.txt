@@ -1,0 +1,17 @@
+NOUN    NOUN  
+ADJF    ADJ
+ADJS    ADJ
+COMP    ADJ
+VERB    VERB
+INFN	VERB
+PRTF    ADJ
+PRTS    ADJ
+GRND	VERB
+NUMR    NUM 
+ADVB    ADV                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+CONJ    SCONJ                                                                                                                                                                                                                                                                  
+INTJ    INTJ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+PRCL    PART
+PREP    ADP                                                                                                                                                                                                                                                                
+NPRO    PRON                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+PRED	X
